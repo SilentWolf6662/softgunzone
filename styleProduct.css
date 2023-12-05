@@ -82,6 +82,13 @@ footer>article>section>p {
     max-width: 85%;
 }
 
+.bi-stock {
+    -webkit-text-stroke: 2px white;
+    color: #ff0000;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
 .bi-stock-fill {
     -webkit-text-stroke: 2px white;
     color: #5cbb46;
